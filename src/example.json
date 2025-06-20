@@ -1,0 +1,289 @@
+{
+    "studies": [
+      {
+        "StudyInstanceUID": "1.2.410.200001.101.11.809.1107072191.1.20241209173151998",
+        "StudyDescription": "",
+        "StudyDate": "20241209",
+        "StudyTime": "173152",
+        "PatientName": "PAPRI NANDI",
+        "PatientID": "09122024-10",
+        "AccessionNumber": "",
+        "PatientAge": "",
+        "PatientSex": "",
+        "series": [
+          {
+            "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209180610548",
+            "SeriesDescription": "",
+            "SeriesNumber": 1,
+            "SeriesTime": "180610",
+            "Modality": "US",
+            "SliceThickness": 0,
+            "instances": [
+              {
+                "metadata": {
+                  "Columns": 1280,
+                  "Rows": 960,
+                  "InstanceNumber": 100,
+                  "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+                  "PhotometricInterpretation": "YBR_FULL_422",
+                  "BitsAllocated": 8,
+                  "BitsStored": 8,
+                  "PixelRepresentation": 0,
+                  "SamplesPerPixel": 3,
+                  "HighBit": 7,
+                  "ImageType": [
+                    "ORIGINAL",
+                    "PRIMARY"
+                  ],
+                  "WindowCenter": 128,
+                  "WindowWidth": 256,
+                  "SeriesDate": "20241209",
+                  "AcquisitionDate": "20241209",
+                  "AcquisitionTime": "180610",
+                  "Modality": "US",
+                  "SOPInstanceUID": "1.2.410.200001.101.11.809.1107072191.3.20241209180610895",
+                  "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209180610548",
+                  "StudyInstanceUID": "1.2.410.200001.101.11.809.1107072191.1.20241209173151998"
+                },
+                "url": "dicomweb:http://zenith.medtelerad.com/dcm/1.2.410.200001.101.11.809.1107072191.1.20241209173151998/1.2.410.200001.101.11.809.1107072191.3.20241209180610895.dcm"
+              },
+              {
+                "metadata": {
+                  "Columns": 1280,
+                  "Rows": 960,
+                  "InstanceNumber": 200,
+                  "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+                  "PhotometricInterpretation": "YBR_FULL_422",
+                  "BitsAllocated": 8,
+                  "BitsStored": 8,
+                  "PixelRepresentation": 0,
+                  "SamplesPerPixel": 3,
+                  "HighBit": 7,
+                  "ImageType": [
+                    "ORIGINAL",
+                    "PRIMARY"
+                  ],
+                  "WindowCenter": 128,
+                  "WindowWidth": 256,
+                  "SeriesDate": "20241209",
+                  "AcquisitionDate": "20241209",
+                  "AcquisitionTime": "180628",
+                  "Modality": "US",
+                  "SOPInstanceUID": "1.2.410.200001.101.11.809.1107072191.3.20241209180628712",
+                  "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209180610548",
+                  "StudyInstanceUID": "1.2.410.200001.101.11.809.1107072191.1.20241209173151998"
+                },
+                "url": "dicomweb:http://zenith.medtelerad.com/dcm/1.2.410.200001.101.11.809.1107072191.1.20241209173151998/1.2.410.200001.101.11.809.1107072191.3.20241209180628712.dcm"
+              }
+            ]
+          },
+          {
+            "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209181551927",
+            "SeriesDescription": "",
+            "SeriesNumber": 2,
+            "SeriesTime": "181551",
+            "Modality": "US",
+            "SliceThickness": 0,
+            "instances": [
+              {
+                "metadata": {
+                  "Columns": 1280,
+                  "Rows": 960,
+                  "InstanceNumber": 300,
+                  "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+                  "PhotometricInterpretation": "YBR_FULL_422",
+                  "BitsAllocated": 8,
+                  "BitsStored": 8,
+                  "PixelRepresentation": 0,
+                  "SamplesPerPixel": 3,
+                  "HighBit": 7,
+                  "ImageType": [
+                    "ORIGINAL",
+                    "PRIMARY"
+                  ],
+                  "WindowCenter": 128,
+                  "WindowWidth": 256,
+                  "SeriesDate": "20241209",
+                  "AcquisitionDate": "20241209",
+                  "AcquisitionTime": "181552",
+                  "Modality": "US",
+                  "SOPInstanceUID": "1.2.410.200001.101.11.809.1107072191.3.20241209181552237",
+                  "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209181551927",
+                  "StudyInstanceUID": "1.2.410.200001.101.11.809.1107072191.1.20241209173151998"
+                },
+                "url": "dicomweb:http://zenith.medtelerad.com/dcm/1.2.410.200001.101.11.809.1107072191.1.20241209173151998/1.2.410.200001.101.11.809.1107072191.3.20241209181552237.dcm"
+              },
+              {
+                "metadata": {
+                  "Columns": 1280,
+                  "Rows": 960,
+                  "InstanceNumber": 400,
+                  "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+                  "PhotometricInterpretation": "YBR_FULL_422",
+                  "BitsAllocated": 8,
+                  "BitsStored": 8,
+                  "PixelRepresentation": 0,
+                  "SamplesPerPixel": 3,
+                  "HighBit": 7,
+                  "ImageType": [
+                    "ORIGINAL",
+                    "PRIMARY"
+                  ],
+                  "WindowCenter": 128,
+                  "WindowWidth": 256,
+                  "SeriesDate": "20241209",
+                  "AcquisitionDate": "20241209",
+                  "AcquisitionTime": "181629",
+                  "Modality": "US",
+                  "SOPInstanceUID": "1.2.410.200001.101.11.809.1107072191.3.20241209181629038",
+                  "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209181551927",
+                  "StudyInstanceUID": "1.2.410.200001.101.11.809.1107072191.1.20241209173151998"
+                },
+                "url": "dicomweb:http://zenith.medtelerad.com/dcm/1.2.410.200001.101.11.809.1107072191.1.20241209173151998/1.2.410.200001.101.11.809.1107072191.3.20241209181629038.dcm"
+              },
+              {
+                "metadata": {
+                  "Columns": 1280,
+                  "Rows": 960,
+                  "InstanceNumber": 500,
+                  "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+                  "PhotometricInterpretation": "YBR_FULL_422",
+                  "BitsAllocated": 8,
+                  "BitsStored": 8,
+                  "PixelRepresentation": 0,
+                  "SamplesPerPixel": 3,
+                  "HighBit": 7,
+                  "ImageType": [
+                    "ORIGINAL",
+                    "PRIMARY"
+                  ],
+                  "WindowCenter": 128,
+                  "WindowWidth": 256,
+                  "SeriesDate": "20241209",
+                  "AcquisitionDate": "20241209",
+                  "AcquisitionTime": "181643",
+                  "Modality": "US",
+                  "SOPInstanceUID": "1.2.410.200001.101.11.809.1107072191.3.20241209181643654",
+                  "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209181551927",
+                  "StudyInstanceUID": "1.2.410.200001.101.11.809.1107072191.1.20241209173151998"
+                },
+                "url": "dicomweb:http://zenith.medtelerad.com/dcm/1.2.410.200001.101.11.809.1107072191.1.20241209173151998/1.2.410.200001.101.11.809.1107072191.3.20241209181643654.dcm"
+              },
+              {
+                "metadata": {
+                  "Columns": 1280,
+                  "Rows": 960,
+                  "InstanceNumber": 600,
+                  "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+                  "PhotometricInterpretation": "YBR_FULL_422",
+                  "BitsAllocated": 8,
+                  "BitsStored": 8,
+                  "PixelRepresentation": 0,
+                  "SamplesPerPixel": 3,
+                  "HighBit": 7,
+                  "ImageType": [
+                    "ORIGINAL",
+                    "PRIMARY"
+                  ],
+                  "WindowCenter": 128,
+                  "WindowWidth": 256,
+                  "SeriesDate": "20241209",
+                  "AcquisitionDate": "20241209",
+                  "AcquisitionTime": "181656",
+                  "Modality": "US",
+                  "SOPInstanceUID": "1.2.410.200001.101.11.809.1107072191.3.20241209181656502",
+                  "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209181551927",
+                  "StudyInstanceUID": "1.2.410.200001.101.11.809.1107072191.1.20241209173151998"
+                },
+                "url": "dicomweb:http://zenith.medtelerad.com/dcm/1.2.410.200001.101.11.809.1107072191.1.20241209173151998/1.2.410.200001.101.11.809.1107072191.3.20241209181656502.dcm"
+              },
+              {
+                "metadata": {
+                  "Columns": 1280,
+                  "Rows": 960,
+                  "InstanceNumber": 700,
+                  "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+                  "PhotometricInterpretation": "YBR_FULL_422",
+                  "BitsAllocated": 8,
+                  "BitsStored": 8,
+                  "PixelRepresentation": 0,
+                  "SamplesPerPixel": 3,
+                  "HighBit": 7,
+                  "ImageType": [
+                    "ORIGINAL",
+                    "PRIMARY"
+                  ],
+                  "WindowCenter": 128,
+                  "WindowWidth": 256,
+                  "SeriesDate": "20241209",
+                  "AcquisitionDate": "20241209",
+                  "AcquisitionTime": "181704",
+                  "Modality": "US",
+                  "SOPInstanceUID": "1.2.410.200001.101.11.809.1107072191.3.20241209181704106",
+                  "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209181551927",
+                  "StudyInstanceUID": "1.2.410.200001.101.11.809.1107072191.1.20241209173151998"
+                },
+                "url": "dicomweb:http://zenith.medtelerad.com/dcm/1.2.410.200001.101.11.809.1107072191.1.20241209173151998/1.2.410.200001.101.11.809.1107072191.3.20241209181704106.dcm"
+              },
+              {
+                "metadata": {
+                  "Columns": 1280,
+                  "Rows": 960,
+                  "InstanceNumber": 800,
+                  "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+                  "PhotometricInterpretation": "YBR_FULL_422",
+                  "BitsAllocated": 8,
+                  "BitsStored": 8,
+                  "PixelRepresentation": 0,
+                  "SamplesPerPixel": 3,
+                  "HighBit": 7,
+                  "ImageType": [
+                    "ORIGINAL",
+                    "PRIMARY"
+                  ],
+                  "WindowCenter": 128,
+                  "WindowWidth": 256,
+                  "SeriesDate": "20241209",
+                  "AcquisitionDate": "20241209",
+                  "AcquisitionTime": "181753",
+                  "Modality": "US",
+                  "SOPInstanceUID": "1.2.410.200001.101.11.809.1107072191.3.20241209181753568",
+                  "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209181551927",
+                  "StudyInstanceUID": "1.2.410.200001.101.11.809.1107072191.1.20241209173151998"
+                },
+                "url": "dicomweb:http://zenith.medtelerad.com/dcm/1.2.410.200001.101.11.809.1107072191.1.20241209173151998/1.2.410.200001.101.11.809.1107072191.3.20241209181753568.dcm"
+              },
+              {
+                "metadata": {
+                  "Columns": 1280,
+                  "Rows": 960,
+                  "InstanceNumber": 900,
+                  "SOPClassUID": "1.2.840.10008.5.1.4.1.1.6.1",
+                  "PhotometricInterpretation": "YBR_FULL_422",
+                  "BitsAllocated": 8,
+                  "BitsStored": 8,
+                  "PixelRepresentation": 0,
+                  "SamplesPerPixel": 3,
+                  "HighBit": 7,
+                  "ImageType": [
+                    "ORIGINAL",
+                    "PRIMARY"
+                  ],
+                  "WindowCenter": 128,
+                  "WindowWidth": 256,
+                  "SeriesDate": "20241209",
+                  "AcquisitionDate": "20241209",
+                  "AcquisitionTime": "181756",
+                  "Modality": "US",
+                  "SOPInstanceUID": "1.2.410.200001.101.11.809.1107072191.3.20241209181756687",
+                  "SeriesInstanceUID": "1.2.410.200001.101.11.809.1107072191.2.20241209181551927",
+                  "StudyInstanceUID": "1.2.410.200001.101.11.809.1107072191.1.20241209173151998"
+                },
+                "url": "dicomweb:http://zenith.medtelerad.com/dcm/1.2.410.200001.101.11.809.1107072191.1.20241209173151998/1.2.410.200001.101.11.809.1107072191.3.20241209181756687.dcm"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
